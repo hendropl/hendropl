@@ -53,9 +53,7 @@ Welcome to my GitHub profile! Here I host various projects I worked on during co
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hendropl&layout=compact)
-![Hendro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hendropl&show_icons=true&theme=radical)
 
----
 
 
 ## 📫 Let’s Connect
