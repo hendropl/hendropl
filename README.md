@@ -1,8 +1,9 @@
 ![Hendro Paulus Limbong](img/github-header-image%20(1).png)
-🎓 Informatics Engineering Student  
-💡 Front-End, Back-end, AI Enthusiast | 🚀 
 
-Selamat datang di profil GitHub saya! Di sini saya menyimpan berbagai proyek yang saya kerjakan selama masa kuliah dan pembelajaran mandiri, mulai dari aplikasi mobile, web interaktif, hingga implementasi algoritma AI dan kriptografi.  
+🎓 Informatics Engineering Student  
+💡 Front-End, Back-end, and ML Enthusiast 
+
+Welcome to my GitHub profile! Here I host various projects I worked on during college and self-study, ranging from mobile applications, interactive web, to implementations of AI and cryptography algorithms.
 
 ---
 
