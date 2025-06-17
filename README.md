@@ -72,7 +72,14 @@ Welcome to my GitHub profile! Here I host various projects I worked on during co
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
+---
 
+## 🎮 Play Game with Me
+
+Watch the snake eat my contributions!  
+<img src="https://raw.githubusercontent.com/hendropl/hendropl/output/snake.svg" alt="Snake animation" />
+
+---
 
 
 Terima kasih telah berkunjung ke profil saya! 😊
