@@ -79,6 +79,7 @@ Welcome to my GitHub profile! Here I host various projects I worked on during co
 Watch the snake eat my contributions!  
 <img src="https://raw.githubusercontent.com/hendropl/hendropl/output/snake.svg" alt="Snake animation" />
 
+###
 ---
 
 
